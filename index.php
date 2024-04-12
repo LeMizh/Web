@@ -1,3 +1,3 @@
 <?php
-echo 'Trang web cua Minh'
+echo 'Hello SOA206'
 ?>
